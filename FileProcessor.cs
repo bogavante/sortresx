@@ -35,6 +35,13 @@ namespace ResourceFileSorterTrigger
         }
 
 
+        public void TearDown()
+        {
+            List<string> things = new List<string>();
+
+        }
+
+
 
 	private void ExtractResources()
 	{            
