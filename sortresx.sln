@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sortresx", "sortresx.csproj", "{1500E505-58AB-4359-99B4-FFAEA02C92B6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = sortresx
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Plastic\u0020SCC\u0020Plug-In
+		CanCheckoutShared = false
+		SolutionUniqueID = {618026E2-80B1-40CD-BE65-7E840773A594}
+		SccProjectUniqueName1 = sortresx.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1500E505-58AB-4359-99B4-FFAEA02C92B6}.Debug.ActiveCfg = Debug|.NET
+		{1500E505-58AB-4359-99B4-FFAEA02C92B6}.Debug.Build.0 = Debug|.NET
+		{1500E505-58AB-4359-99B4-FFAEA02C92B6}.Release.ActiveCfg = Release|.NET
+		{1500E505-58AB-4359-99B4-FFAEA02C92B6}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
