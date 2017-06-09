@@ -45,6 +45,9 @@ namespace ResourceFileSorterTrigger
 	{
 	    System.Console.WriteLine("Invalid argument:"+ argument + "\nUsage: sortresx file_to_sort");
 	}
+
+
+
 }
 
     
