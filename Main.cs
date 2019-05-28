@@ -51,4 +51,4 @@ namespace ResourceFileSorterTrigger
 }
 
     
-}
+}//change  
