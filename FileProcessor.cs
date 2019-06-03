@@ -106,3 +106,4 @@ namespace ResourceFileSorterTrigger
 	}
     }
 }
+//changed directly in github (master) in order to test pulling subtree
