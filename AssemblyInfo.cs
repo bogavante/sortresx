@@ -59,4 +59,8 @@ using System.Runtime.CompilerServices;
 //change  
 //comment in submodule in gittower  
 //comment in submodule in gittower  
+<<<<<<< HEAD
 //ASSMINFO CHANGED IN TASk001  
+=======
+//ASSMINFO CHANGED IN TASk002  
+>>>>>>> task002
